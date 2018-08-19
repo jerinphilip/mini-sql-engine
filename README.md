@@ -2,7 +2,7 @@ MiniSQL Engine
 ---
 
 Moving
-[https://github.com/jerinphilip/monsoon-17/tree/master/database-systems/hw/1-mini-sql-engine/](this)
+[this](https://github.com/jerinphilip/monsoon-17/tree/master/database-systems/hw/1-mini-sql-engine/)
 to a standalone repository. This was originally (over)done for a
 database introductory course in Monsoon '17.
 
